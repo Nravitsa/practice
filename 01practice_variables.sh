@@ -9,7 +9,7 @@ echo height = ${height}
 
 
 echo networth = $1 #rhs
-echo futurenetworth =$2
+echo futurenetworth = $2
 
 
 echo Todays Date is $(date)
